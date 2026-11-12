@@ -1,0 +1,7 @@
+{
+  "name": "creative-team",
+  "version": "1.0.0",
+  "description": "A full video creative team for Claude Code: a Creative Director runs specialist roles to make a video end to end or review a draft.",
+  "license": "MIT",
+  "keywords": ["video", "creative", "review", "motion", "storyboard"]
+}

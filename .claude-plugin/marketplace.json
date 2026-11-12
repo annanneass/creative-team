@@ -1,0 +1,11 @@
+{
+  "name": "creative-team",
+  "owner": { "name": "creative-team" },
+  "plugins": [
+    {
+      "name": "creative-team",
+      "source": "./",
+      "description": "A full video creative team: make a video end to end or panel-review a draft."
+    }
+  ]
+}
